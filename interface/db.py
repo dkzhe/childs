@@ -138,8 +138,8 @@ class DB(object):
 			a = 0
 		return a
 
-
+'''
 if __name__ == '__main__':
 	d = DB()
 	print d.isalldigit(2,1,2)
-
+'''
